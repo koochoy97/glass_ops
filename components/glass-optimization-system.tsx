@@ -553,7 +553,7 @@ export default function GlassOptimizationSystem() {
   async function sendToWebhook(orderItems, origen) {
     try {
       const response = await fetch(
-        "https://n8n.viprou.com/webhook-test/103b1e30-807f-4bba-a65f-9698f0c23d2c",
+        "https://n8n.viprou.com/webhook/103b1e30-807f-4bba-a65f-9698f0c23d2c",
 
         {
           method: "POST",

@@ -389,7 +389,7 @@ export default function GlassOptimizationSystem() {
     );
 
     // Abrir WhatsApp con el mensaje predefinido
-    window.open(`https://wa.me/5491100000000?text=${whatsappText}`, "_blank");
+    window.open(`https://wa.me/5491141422955?text=${whatsappText}`, "_blank");
 
     // Mostrar mensaje de éxito
     setShowSuccessMessage(true);
